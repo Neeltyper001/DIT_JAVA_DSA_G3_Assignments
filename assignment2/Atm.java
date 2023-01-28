@@ -1,3 +1,5 @@
+package DIT_JAVA_DSA_G3_Assignments.assignment2;
+
 import java.util.*;
 
 public class Atm {

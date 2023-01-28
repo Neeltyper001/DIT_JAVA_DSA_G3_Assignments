@@ -1,4 +1,4 @@
-
+package DIT_JAVA_DSA_G3_Assignments.assignment3;
 import java.util.*;
 
 public class OddEvenSum {

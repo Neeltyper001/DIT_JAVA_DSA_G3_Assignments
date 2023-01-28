@@ -1,4 +1,4 @@
-package assignment1;
+package DIT_JAVA_DSA_G3_Assignments.assignment1;
 import java.util.Scanner;
 
 public class salarySlip {
