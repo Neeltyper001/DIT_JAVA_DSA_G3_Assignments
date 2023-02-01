@@ -13,12 +13,17 @@ public class SumOfSeries {
 
         for(int i=0 ; i<n; i++){
             if(i==0){
-                System.out.print("1 ");
+                System.out.print("1 + ");
                 sum+=1;
             }
 
-            else{
+            else if(i == n-1){
                 System.out.print("1/"+(1+i)+" ");
+                sum += (double)1/(1+i);
+            }
+
+            else {
+                System.out.print("1/"+(1+i)+" + ");
                 sum += (double)1/(1+i);
             }
         }
