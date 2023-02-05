@@ -1,1 +1,2 @@
-# Excercise based on printing (printing occurs from top to bottom and left to right)
+# Printing and logics
+### Excercises based on simple mathematics logic
